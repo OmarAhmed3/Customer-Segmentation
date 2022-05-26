@@ -3,7 +3,7 @@
 
 # Task 
 ## Requirements (Project):
-### 1. Import any unsupervised dataset (eg: Iris) with big number of features
+### 1. Import any unsupervised dataset (eg: Customer Segmentation) with big number of features
 ### 2. Normalize data
 ### 3. Apply PCA, state which K was optimum
 ### 4. Apply the the four clustering techniques ( K-Means, Hierarchical Clustering, DBSCAN, GMM), explaining the choice of parameters for each technique
